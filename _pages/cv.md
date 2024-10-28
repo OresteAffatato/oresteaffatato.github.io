@@ -22,6 +22,10 @@ Research experience
   * Duties: Research, teaching activities, student supervision
   * Main Supervisor: Prof. Jessica Mwinyi
 
+Grants and Awards
+======
+* Sederholm, Nordic travel scholarships (2024)
+* Busoli Gian Carlo and Birgit grant (2022)
 
 Publications
 ======
