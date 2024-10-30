@@ -3,7 +3,7 @@ title: "Assessing volumetric brain differences in migraine and depression patien
 collection: publications
 category: manuscript
 permalink: /publication/MigDepMRI2023
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2023-07-28
 venue: 'BMC Neurology'
 paperurl: 'http://academicpages.github.io/files/MigDepMRI2023.pdf'
