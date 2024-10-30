@@ -1,7 +1,7 @@
 ---
 title: "Assessing volumetric brain differences in migraine and depression patients: a UK Biobank study"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/MigDepMRI2023
 excerpt: ''
 date: 2023-07-28

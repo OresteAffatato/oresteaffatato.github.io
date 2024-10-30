@@ -1,7 +1,7 @@
 ---
 title: "Beating of hammers"
 collection: publications
-category: book
+category: books
 permalink: /publication/Thesis
 excerpt: ''
 date: 2024-05-08
