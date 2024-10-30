@@ -7,5 +7,5 @@ venue: "Fikademia"
 date: 2023-08-21
 location: "Uppsala, Sweden"
 ---
-In this episode of Fikademia, a podcast by Sergio Flores, I talk about my doctoral research in migraine and depression and about my journey.
+In this episode of Fikademia, a podcast by Sergio Flores, I talk about my journey and my research as doctoral student.
 The link to the full episode is <a href="https://open.spotify.com/episode/2FIhOx7WAqiWcQvH1wjuKH" title="hp">here</a>. 

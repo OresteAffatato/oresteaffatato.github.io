@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,24 +27,19 @@ Grants and Awards
 * Sederholm, Nordic travel scholarships (2024)
 * Busoli Gian Carlo and Birgit grant (2022)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Languages
+====== 
 
-  Complete CV
+Alle volte uno si crede incompleto ed è soltanto giovane. - Italo Calvino
+
+I measured out my life with coffee spoons. - Thomas Stearns Eliot
+
+Eu tinha a grande saúde de não perceber coisa nenhuma. - Álvaro de Campos
+
+Los espejos y la cópula son abominables porque multiplican el número de los hombres. - Jorge Luis Borges
+
+Döden är vindstilla. - Thomas Tranströmer
+
+Complete CV
 ======
 A more complete version of my CV can be retrieved at this <a href="http://oresteaffatato.github.io/files/AcademicCV.pdf" title="hp">link</a>. 
