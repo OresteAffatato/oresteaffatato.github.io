@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Science Stuff"
+title                    : "Science Stuff"  
 title_separator          : "-"
 name                     : &name "Oreste"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Oreste"
   pronouns         : # example: "she/her"  
   bio              : "Passionate reseacher in neuroscience, statistics, scientific methods and metascience"
-  location         : "Uppsala, Sweden"
+  location         : "Gothenburg, Sweden"
   employer         : #"University of the Street"
   uri              : # URL
   email            : "oreste.website@gmail.com" 
