@@ -17,6 +17,8 @@ Education
 
 Research experience
 ======
+* March 2025 - Ongoing: Postdoctoral Researcher at the University of Gothenburg (Gothenburg, Sweden)
+  * Main research focus: efficacy of antidepressants
 * September 2020 - September 2024: Ph.D. student at Uppsala University (Uppsala, Sweden)
   * Research on risk factors, biological correlates and pharmacological treatments for migraine and depression
   * Duties: Research, teaching activities, student supervision
@@ -24,6 +26,7 @@ Research experience
 
 Grants and Awards
 ======
+* Svenska Sällskapet för Medicinsk Forskning Postdoctoral Grant (2025)
 * Sederholm, Nordic travel scholarships (2024)
 * Busoli Gian Carlo and Birgit grant (2022)
 
@@ -42,4 +45,4 @@ Döden är vindstilla. - Thomas Tranströmer
 
 Complete CV
 ======
-A more complete version of my CV can be retrieved at this <a href="http://oresteaffatato.github.io/files/AcademicCV.pdf" title="hp">link</a>. 
+A more complete version of my CV can be retrieved at this <a href="http://oresteaffatato.github.io/files/AcademicCV.pdf" title="hp">link</a> (latest update June 2025). 
