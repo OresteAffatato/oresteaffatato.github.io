@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Few and confused ideas"
+title: "Poche idee, ma confuse"
 author_profile: true
 redirect_from: 
   - /about/
