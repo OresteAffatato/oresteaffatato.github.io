@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Mathematical Modelling Laboratory
+### Academic Years 2021 - 2023
+
+# Mathematical Modelling Laboratory
 
 Teaching period: 2021-01-01 to 2023-09-01
 
@@ -30,7 +32,7 @@ I was responsible for the designing and leading the computer laboratory of stati
 
 More information and teaching material can be retrieved from my GitHub <a href="https://github.com/OresteAffatato/Statistics-lab-UU" title="hp">page</a>.
 
-## Seminars and journal clubs
+## Seminars and journal clubs (2021/2023)
 
 Teaching period: 2021-01-01 to 2023-09-01
 
