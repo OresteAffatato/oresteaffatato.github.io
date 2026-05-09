@@ -47,4 +47,4 @@ Je suis l'Empire à la fin de la décadence - Paul Verlaine
 
 Complete CV
 ======
-A more complete version of my CV can be retrieved at this <a href="http://oresteaffatato.github.io/files/AcademicCV.pdf" title="hp">link</a> (latest update June 2025). 
+A more complete version of my CV can be retrieved at this <a href="http://oresteaffatato.github.io/files/AcademicCV.pdf" title="hp">link</a> (latest update May 2026). 
