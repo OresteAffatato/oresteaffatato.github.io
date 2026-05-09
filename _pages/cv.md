@@ -26,6 +26,7 @@ Research experience
 
 Grants and Awards
 ======
+* Foundation Blanceflor - Short-term scholarship (2026)
 * Svenska Sällskapet för Medicinsk Forskning Postdoctoral Grant (2025)
 * Sederholm, Nordic travel scholarships (2024)
 * Busoli Gian Carlo and Birgit grant (2022)
